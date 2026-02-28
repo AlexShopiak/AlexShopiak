@@ -6,8 +6,6 @@
 </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShopiak&theme=dark&layout=compact&langs_count=13" />
-
   <div>
     <code>🎓 Education: KPI FICT</code>
   </div>
